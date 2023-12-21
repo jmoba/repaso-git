@@ -3,4 +3,4 @@
 * Autor: Paco López
 * Módulo: Lenguajes de Marcas
 
-[Web de ejemplo](index.html)
+[Web de ejemplo](https://jmoba.github.io/repaso-git/)
